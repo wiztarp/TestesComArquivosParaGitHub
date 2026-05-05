@@ -1,10 +1,11 @@
 Teste final Sala 01 
-vers∆o 01 
+vers√Üo 01 
 <<<<<<< HEAD
 =======
-vers∆o 02 
-vers∆o 03 
-Iniciando relat¢rio 
+vers√Üo 02 
+vers√Üo 03 
+Iniciando relat¬¢rio 
 >>>>>>> feature-relatorio
 teste 
-alteraá∆o local 
+altera‚Ä°√Üo local 
+Alteracao feita no GitHub
