@@ -1,4 +1,5 @@
 Teste final Sala 01 
+<<<<<<< HEAD
 versÆo 01 
 teste 
 altera‡Æo local 
@@ -6,3 +7,7 @@ Alteracao feita no GitHub
 
 
 Salve mensgem nova kenny 
+=======
+vers�o 01 
+salve kenny 
+>>>>>>> teste
