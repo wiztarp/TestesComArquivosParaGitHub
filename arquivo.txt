@@ -7,3 +7,4 @@ versÆo 03
 Iniciando relat¢rio 
 >>>>>>> feature-relatorio
 teste 
+altera‡Æo local 
