@@ -7,5 +7,6 @@ Salve mensgem nova kenny
 vers o 01 
 salve kenny 
 atualizacao na branch teste 
-testando problema de commit entre branchlinha_teste_limpo 
+testando problema de commit entre branchlinha_teste_limpo
+teste branch relatorio.
 nova linha para dar conflito com relatorio
