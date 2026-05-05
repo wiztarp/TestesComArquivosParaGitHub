@@ -1,2 +1,8 @@
 Teste final Sala 01 
 versÆo 01 
+<<<<<<< HEAD
+=======
+versÆo 02 
+versÆo 03 
+Iniciando relat¢rio 
+>>>>>>> feature-relatorio
