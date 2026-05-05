@@ -10,4 +10,8 @@ Salve mensgem nova kenny
 =======
 versÆo 01 
 salve kenny 
+<<<<<<< HEAD
+>>>>>>> teste
+=======
+atualizacao na branch teste 
 >>>>>>> teste
