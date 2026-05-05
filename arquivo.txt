@@ -8,10 +8,11 @@ Alteracao feita no GitHub
 
 Salve mensgem nova kenny 
 =======
-versÆo 01 
+versï¿½o 01 
 salve kenny 
 <<<<<<< HEAD
 >>>>>>> teste
 =======
 atualizacao na branch teste 
 >>>>>>> teste
+teste_Nik
