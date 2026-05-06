@@ -15,3 +15,4 @@ Arquivo modificado por outro usuário direto do github
 novo arquivo adicionado cliente
 nova atualizacao no arquivo.txt pela master
 Nova atualizacao no arquivo.txt pelo github 01
+novo arquivo pedidos adicionado 01
