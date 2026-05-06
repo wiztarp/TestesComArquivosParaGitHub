@@ -12,3 +12,4 @@ teste branch relatorio.
 nova linha para dar conflito com relatorio
 novo arquivo adicionado cliente 01
 Arquivo modificado por outro usuário direto do github
+novo arquivo adicionado cliente
