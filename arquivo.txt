@@ -18,3 +18,4 @@ Nova atualizacao no arquivo.txt pelo github 01
 novo arquivo pedidos adicionado 01
 novo arquivo produtos criado 01
 Novo arquivo gerado, historico
+arquivo gerado, historico atualização 01
